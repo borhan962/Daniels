@@ -1,0 +1,31 @@
+@media screen and (max-width:786px) {
+    #home h1 {
+        font-size: 2rem;
+    }
+
+    #home h5 {
+        font-size: 3rem;
+    }
+
+    header h1::after {
+        font-size: 2rem;
+    }
+
+    #works .proto-layer {
+        left: 15px;
+    }
+
+}
+
+
+@media screen and (max-width:1400px) {
+    .container {
+        width: 100% !important;
+    }
+
+    #contact .controls {
+        width: 100%;
+    }
+
+
+}
